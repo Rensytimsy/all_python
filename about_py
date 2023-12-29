@@ -1,0 +1,25 @@
+Python is a high level programming language that was developed by guiddo van rossum
+Python language is a extensible customisable application.
+    NB: In python while declaring identifiers it's not a must to state the data type , the python interpreter automatically 
+    knows the data type.
+
+VARIABLES AND DATATYPES
+
+    A variable is a named memory location that stores the reference to an object in the memory location
+    A variable is also known as an identifier.
+
+    Why variables are said to be objects in python??...
+
+            RULES IDENTIFIERS FOLLOW
+
+        Should start with a letter or underscore but not a digit/number
+        Should not have a name like for keyword e.g del
+        Can contain letters and digits 
+        Can be of any length
+
+VALUES
+    values are basically what programs work with
+    Also known as literals
+    A literal can be of any type ,example int, float and string
+
+
