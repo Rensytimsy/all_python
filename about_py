@@ -23,7 +23,7 @@ VALUES
     A literal can be of any type ,example int, float and string
 
 OBJECTS AND CLASSES:
-#A class is an object constructor.
+#In python a class is used to create an object with properties and methods.
 #Simply to create a class one uses the class keyword.
 #Using the class name you can come up with different objects.
 
