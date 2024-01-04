@@ -22,4 +22,28 @@ VALUES
     Also known as literals
     A literal can be of any type ,example int, float and string
 
+OBJECTS AND CLASSES:
+#A class is an object constructor.
+#Simply to create a class one uses the class keyword.
+#Using the class name you can come up with different objects.
+
+class myObj:
+    x = 20
+    y = 10
+    randName = "Timothy Mutwiri"
+    age = 20
+
+#using the class myObj we can create an object named newObj with that class name
+newObj = myObj()
+#print(newObj.age)
+
+#The best way to craete an object is the process below since it can contain different values.
+
+class person:
+    def __init__(self, name, age):
+       self.name = name
+       self.age = age
+
+people = person("Timothy", 20)
+print(people.name)
 
